@@ -11,6 +11,12 @@
 
 [AWS Compute Optimizer 신규 기능 — 비용 절감 기회와 성능 위험을 예측하는 리소스 효율성 지표](https://aws.amazon.com/ko/blogs/korea/new-for-aws-compute-optimizer-resource-efficiency-metrics-to-estimate-savings-opportunities-and-performance-risks/)
 
+[The best ways to save money on Lambda](https://theburningmonk.com/2022/07/the-best-ways-to-save-money-on-lambda/)
+
+
+# 관련 도구들
+[AWS Lambda Power tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning)
+
 
 # 도서
 [클라우드 핀옵스 | Yes24](http://www.yes24.com/Product/Goods/95560145)
