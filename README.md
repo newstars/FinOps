@@ -27,6 +27,33 @@
 
 [Infracost VSCode Extension](https://github.com/infracost/vscode-infracost)
 
+#FinOps Solutions
+[Cloudhealth](https://cloudhealth.vmware.com/)
+
+[Cloudbility](https://www.apptio.com/products/cloudability/)
+
+[IBM's Turbonomic](https://www.ibm.com/cloud/turbonomic/cloud-optimization)
+
+[Flexera](https://www.flexera.com/flexera-one/cloud-cost-optimization)
+
+[SPOT](https://spot.io/)
+
+[SNOW](https://www.snowsoftware.com/solutions/cloud-cost-optimization/)
+
+[Corestack](https://www.corestack.io/)
+
+[Cloudwiry](https://cloudwiry.com/)
+
+[Stacklet](https://stacklet.io/)
+
+[CloudThread](https://www.cloudthread.io/)
+
+
+#K8S FinOps Solutions
+[kubecost](https://www.kubecost.com/)
+
+[cast.ai](https://cast.ai/)
+
 
 # Books
 [클라우드 핀옵스 | Yes24](http://www.yes24.com/Product/Goods/95560145)
