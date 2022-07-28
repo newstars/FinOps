@@ -27,7 +27,7 @@
 
 [Infracost VSCode Extension](https://github.com/infracost/vscode-infracost)
 
-#FinOps Solutions
+# FinOps Solutions
 [Cloudhealth](https://cloudhealth.vmware.com/)
 
 [Cloudbility](https://www.apptio.com/products/cloudability/)
@@ -49,7 +49,7 @@
 [CloudThread](https://www.cloudthread.io/)
 
 
-#K8S FinOps Solutions
+# K8S FinOps Solutions
 [kubecost](https://www.kubecost.com/)
 
 [cast.ai](https://cast.ai/)
