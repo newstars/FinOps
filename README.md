@@ -27,6 +27,8 @@
 
 [Infracost VSCode Extension](https://github.com/infracost/vscode-infracost)
 
+[EC2Instances.info](https://instances.vantage.sh)
+
 
 # Books
 [클라우드 핀옵스 | Yes24](http://www.yes24.com/Product/Goods/95560145)
