@@ -59,6 +59,8 @@
 
 
 # Books
+[AWS 비용 최적화 바이블 (출간예정, 한빛미디어)]
+
 [클라우드 핀옵스 | Yes24](http://www.yes24.com/Product/Goods/95560145)
 
 [Mastering AWS Cost Optimization: Real-world technical and operational cost-saving best practices](https://www.amazon.com/Mastering-AWS-Cost-Optimization-operational/dp/965572803X)
