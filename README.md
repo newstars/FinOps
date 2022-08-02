@@ -17,8 +17,7 @@
 
 
 # AWS SkillBuilder
-[Optimizing your FinOps Strategy with AWS](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13231/optimizing-your-finops-strategy-with-aws
-)
+[Optimizing your FinOps Strategy with AWS](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13231/optimizing-your-finops-strategy-with-aws)
 
 
 # FinOps Tools
@@ -43,14 +42,6 @@
 [IBM's Turbonomic](https://www.ibm.com/cloud/turbonomic/cloud-optimization)
 
 [Flexera](https://www.flexera.com/flexera-one/cloud-cost-optimization)
-
-[SPOT](https://spot.io/)
-
-[SNOW](https://www.snowsoftware.com/solutions/cloud-cost-optimization/)
-
-[Corestack](https://www.corestack.io/)
-
-[Cloudwiry](https://cloudwiry.com/)
 
 [Stacklet](https://stacklet.io/)
 
