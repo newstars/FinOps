@@ -16,6 +16,11 @@
 [ECS Task Rebalancing을 이용한 EC2 비용 최적화](https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization)
 
 
+# AWS SkillBuilder
+[Optimizing your FinOps Strategy with AWS](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13231/optimizing-your-finops-strategy-with-aws
+)
+
+
 # FinOps Tools
 [AWS Level 200 : Cloud Intelligence Dashboards](https://wellarchitectedlabs.com/cost/200_labs/200_cloud_intelligence/)
 
@@ -70,3 +75,6 @@
 
 # 오픈카톡
 https://open.kakao.com/o/gwSjnLqe
+
+# Youtube
+[FinOps Foundation](https://www.youtube.com/channel/UCyl26lvnoySlGWlF5oNHvYA)
