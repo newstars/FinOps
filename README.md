@@ -55,7 +55,9 @@
 
 
 # Books
-[AWS 비용 최적화 바이블 (출간예정, 한빛미디어)]
+[AWS 비용 최적화 바이블 | Yes24](http://www.yes24.com/Product/Goods/111715522)
+
+[AWS 비용 최적화 바이블 | 교보문고](http://kyobo.link/Qu75)
 
 [클라우드 핀옵스 | Yes24](http://www.yes24.com/Product/Goods/95560145)
 
