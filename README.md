@@ -59,6 +59,8 @@
 
 [AWS 비용 최적화 바이블 | 교보문고](http://kyobo.link/Qu75)
 
+[AWS 비용 최적화 바이블 | 알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299501047)
+
 [클라우드 핀옵스 | Yes24](http://www.yes24.com/Product/Goods/95560145)
 
 [Mastering AWS Cost Optimization: Real-world technical and operational cost-saving best practices](https://www.amazon.com/Mastering-AWS-Cost-Optimization-operational/dp/965572803X)
