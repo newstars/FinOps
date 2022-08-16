@@ -20,7 +20,7 @@
 [ECS Task Rebalancing을 이용한 EC2 비용 최적화](https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization)
 
 
-#Hands-On
+# Hands-On
 [불완전한 멀티파트 업로드 제거로 비용 절검](https://linuxer.name/2022/08/aws-finops-s3-incomplete-multipart-uploads-mpu/)
 
 [AWS S3 불필요한 객체 삭제로 비용 절감하기](https://flavono123.github.io/posts/s3-cost-optimization/)
@@ -67,9 +67,9 @@
 
 
 # Books
-[AWS 비용 최적화 바이블 | Yes24](http://www.yes24.com/Product/Goods/111715522)
-
 [AWS 비용 최적화 바이블 | 교보문고](http://kyobo.link/Qu75)
+
+[AWS 비용 최적화 바이블 | Yes24](http://www.yes24.com/Product/Goods/111715522)
 
 [AWS 비용 최적화 바이블 | 알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=299501047)
 
