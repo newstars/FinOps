@@ -27,14 +27,18 @@
 
 [AWS Cli로 오래된 s3 객체 삭제하기](https://newstars.cloud/489)
 
+[AWS Level 100 : COST VISUALIZATION](https://wellarchitectedlabs.com/cost/100_labs/100_5_cost_visualization/)
+
+[AWS Level 200 : Cloud Intelligence Dashboards](https://wellarchitectedlabs.com/cost/200_labs/200_cloud_intelligence/)
+
+[AWS Level 200 : COMPUTE OPTIMIZER DASHBOARD](https://wellarchitectedlabs.com/cost/200_labs/200_cloud_intelligence/compute-optimizer-dashboards/)
+
 
 # AWS SkillBuilder
 [Optimizing your FinOps Strategy with AWS](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13231/optimizing-your-finops-strategy-with-aws)
 
 
 # FinOps Tools
-[AWS Level 200 : Cloud Intelligence Dashboards](https://wellarchitectedlabs.com/cost/200_labs/200_cloud_intelligence/)
-
 [AWS Lambda Power tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning)
 
 [Serverless Cost Calculator](http://serverlesscalc.com)
