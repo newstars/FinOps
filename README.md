@@ -1,6 +1,9 @@
 # FinOps - 클라우드 비용 최적화
 안녕하세요. 'Finops - 클라우드 비용 최적화' 오픈 채팅방 저장소 입니다.
 
+# AWS Cloud Financial Management
+https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/
+
 
 # Article - AWS
 [AWS 범용 클라우드 아키텍처의 데이터 전송 비용 알아보기](https://aws.amazon.com/ko/blogs/korea/overview-of-data-transfer-costs-for-common-architectures/)
