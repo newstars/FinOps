@@ -5,6 +5,10 @@
 https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/
 
 
+# Video
+[AWS 비용 관련 유튜브 재생목록](https://www.youtube.com/playlist?list=PLkMxFWEx0j2OA-qi5kMMqfIEdCXd-l-Os)
+
+
 # Article - AWS
 [AWS 범용 클라우드 아키텍처의 데이터 전송 비용 알아보기](https://aws.amazon.com/ko/blogs/korea/overview-of-data-transfer-costs-for-common-architectures/)
 
