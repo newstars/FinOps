@@ -70,7 +70,7 @@ https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/
 
 [EC2기반 리소스 비용 비교하기](https://instances.vantage.sh/)
 
-[AWS 한달 비용 계산기] (https://calculator.s3.amazonaws.com/index.html)
+[AWS 한달 비용 계산기](https://calculator.s3.amazonaws.com/index.html)
 
 [AWS Lambda Power tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning)
 
