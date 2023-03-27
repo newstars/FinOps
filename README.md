@@ -46,6 +46,8 @@ https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/
 
 
 # Hands-On
+[Azure-Cost-Reporing](https://github.com/chris-bowman/Azure-Cost-Reporting/tree/main/Power%20BI%20Report)
+
 [불완전한 멀티파트 업로드 제거로 비용 절검](https://linuxer.name/2022/08/aws-finops-s3-incomplete-multipart-uploads-mpu/)
 
 [AWS S3 불필요한 객체 삭제로 비용 절감하기](https://flavono123.github.io/posts/s3-cost-optimization/)
