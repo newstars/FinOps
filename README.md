@@ -1,6 +1,13 @@
 # FinOps - 클라우드 비용 최적화
 안녕하세요. 'Finops - 클라우드 비용 최적화' 오픈 채팅방 저장소 입니다.
 
+#AWS 비용최적화 시리즈
+[비용 최적화 시리즈 1부: AWS 사용량에 대한 시각화로 비용 최적화 인사이트 얻기](https://aws.amazon.com/ko/blogs/korea/visualize-and-gain-insights-into-your-aws-cost-and-usage-with-amazon-managed-grafana/)
+
+[비용 최적화 시리즈 2부: AWS Config의 비용 최적화 방안](https://aws.amazon.com/ko/blogs/korea/cost-optimization-recommendations-for-aws-config/)
+
+
+
 # AWS Cloud Financial Management
 https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/
 
