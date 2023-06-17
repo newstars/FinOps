@@ -21,6 +21,8 @@ https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/
 
 
 # Article - AWS
+[Amazon EKS 클러스터를 비용 효율적으로 오토스케일링하기](https://aws.amazon.com/ko/blogs/tech/amazon-eks-cluster-auto-scaling-karpenter-bp)
+
 [AWS Well-Architected 프레임워크와 AWS Trusted Advisor 를 사용한 데이터 기반의 비용 최적화 리뷰](https://aws.amazon.com/ko/blogs/korea/aws-well-architected-framework-aws-trusted-advisor-cost-optimization/)
 
 [AWS Resource Explorer 소개 — 모든 AWS 리소스 한번에 빠르게 검색하기](https://aws.amazon.com/ko/blogs/korea/introducing-aws-resource-explorer-quickly-find-resources-in-your-aws-account/)
@@ -76,6 +78,8 @@ https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/
 
 # FinOps Tools
 [AWS 비용 계산기](https://calculator.aws/)
+
+[VScode-Extension:테라폼 수정 비용 추적](https://github.com/infracost/vscode-infracost/)
 
 [EC2기반 리소스 비용 비교하기](https://instances.vantage.sh/)
 
