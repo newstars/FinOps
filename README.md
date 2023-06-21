@@ -55,6 +55,8 @@ https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/
 
 
 # Hands-On
+[Amazon EKS 비용 최적화 워크샵](https://catalog.workshops.aws/eks-cost-optimization/ko-KR)
+
 [Azure-Cost-Reporing](https://github.com/chris-bowman/Azure-Cost-Reporting/tree/main/Power%20BI%20Report)
 
 [불완전한 멀티파트 업로드 제거로 비용 절검](https://linuxer.name/2022/08/aws-finops-s3-incomplete-multipart-uploads-mpu/)
