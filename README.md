@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?&type=rounded&color=auto&height=200&text=FinOps-클라우드비용최적화&fontSize=40)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnewstars%2FFinOps%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# FinOps - 클라우드 비용 최적화
+# FinOps - 클라우드 비용 최적화 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnewstars%2FFinOps%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 안녕하세요. 'Finops - 클라우드 비용 최적화' [오픈카톡](https://open.kakao.com/o/gwSjnLqe) 저장소 입니다.
 
 아래 바로가기를 이용하시면 다양한 정보를 보실 수 있습니다.
