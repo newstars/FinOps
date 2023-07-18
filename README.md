@@ -186,5 +186,3 @@
 # Youtube-FinOpsFoundation
 [FinOps Foundation](https://www.youtube.com/channel/UCyl26lvnoySlGWlF5oNHvYA)
 
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
