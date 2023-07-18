@@ -1,27 +1,44 @@
-# FinOps - 클라우드 비용 최적화
-안녕하세요. 'Finops - 클라우드 비용 최적화' 오픈 채팅방 저장소 입니다.
+![header](https://capsule-render.vercel.app/api?&type=rounded&color=auto&height=200&text=FinOps-클라우드비용최적화&fontSize=40)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnewstars%2FFinOps%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# AWS 비용최적화 시리즈
+# FinOps - 클라우드 비용 최적화
+안녕하세요. 'Finops - 클라우드 비용 최적화' [오픈카톡](https://open.kakao.com/o/gwSjnLqe) 저장소 입니다.
+
+아래 바로가기를 이용하시면 다양한 정보를 보실 수 있습니다.
+
+- [AWS](#AWS)
+- [GCP](#GCP)
+- [Azure](#Azure)
+- [FinOps](#FinOps)
+- [Books](#Books)
+- [Youtube](#Youtube-FinOpsFoundation)
+
+# AWS
+
+## AWS 비용최적화 시리즈
 [비용 최적화 시리즈 1부: AWS 사용량에 대한 시각화로 비용 최적화 인사이트 얻기](https://aws.amazon.com/ko/blogs/korea/visualize-and-gain-insights-into-your-aws-cost-and-usage-with-amazon-managed-grafana/)
 
 [비용 최적화 시리즈 2부: AWS Config의 비용 최적화 방안](https://aws.amazon.com/ko/blogs/korea/cost-optimization-recommendations-for-aws-config/)
 
 
 
-# AWS Cloud Financial Management
-https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/
+## AWS Cloud Financial Management
+[AWS Cloud Financial Management](https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/)
 
 
-
-# Video
+## AWS FinOps Video
 [AWS 비용 관련 유튜브 재생목록](https://www.youtube.com/playlist?list=PLkMxFWEx0j2OA-qi5kMMqfIEdCXd-l-Os)
 
 [AWS re:Invent 2022 비용 관련 유튜브 재생목록](https://www.youtube.com/watch?v=xOQzhagC9hA&list=PLkMxFWEx0j2N8gV3rmoevDKKU5F0OW5eK)
 
 
 
-# Article - AWS
+## AWS Blogs
+[Karpenter 통합을 이용한 Kubernetes 컴퓨팅 비용 최적화](https://aws.amazon.com/ko/blogs/tech/optimizing-your-kubernetes-compute-costs-with-karpenter-consolidation/)
+
 [Amazon EKS 클러스터를 비용 효율적으로 오토스케일링하기](https://aws.amazon.com/ko/blogs/tech/amazon-eks-cluster-auto-scaling-karpenter-bp)
+
+[Amazon Redshift의 가격 대비 성능 리더쉽](https://aws.amazon.com/ko/blogs/korea/amazon-redshift-continues-its-price-performance-leadership)
 
 [AWS Well-Architected 프레임워크와 AWS Trusted Advisor 를 사용한 데이터 기반의 비용 최적화 리뷰](https://aws.amazon.com/ko/blogs/korea/aws-well-architected-framework-aws-trusted-advisor-cost-optimization/)
 
@@ -41,9 +58,13 @@ https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/
 
 [AWS 비용을 줄일 수 있는 10가지 기법](https://aws.amazon.com/ko/blogs/korea/10-things-you-can-do-today-to-reduce-aws-costs/)
 
+[AWS Compute Optimizer](https://aws.amazon.com/ko/blogs/korea/new-for-aws-compute-optimizer-resource-efficiency-metrics-to-estimate-savings-opportunities-and-performance-risks/)
 
 
-# Article
+
+## Article
+[수제 FinOps - Lambda편](https://gnidoc.tistory.com/entry/%EC%88%98%EC%A0%9C-FinOps-Lambda%ED%8E%B8)
+
 [Telegram Bot으로 AWS 비용 확인하기](https://zigispace.net/1193)
 
 [DevOps Engineer가 FinOps를 시작하면](https://velog.io/@sean-2016/DevOps-Engineer%EA%B0%80-FinOps%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B4)
@@ -52,9 +73,13 @@ https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/
 
 [ECS Task Rebalancing을 이용한 EC2 비용 최적화](https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization)
 
+[13 hidden AWS charges and how to avoid them](https://medium.com/@NickHystax/13-hidden-aws-charges-and-how-to-avoid-them-79b94a328e62)
+
+[How to Manage Your AWS Resources Effectively with Tags](https://www.linkedin.com/pulse/how-manage-your-aws-resources-effectively-tags-aleksandar-nenov/)
 
 
-# Hands-On
+
+## AWS Hands-On
 [Amazon EKS 비용 최적화 워크샵](https://catalog.workshops.aws/eks-cost-optimization/ko-KR)
 
 [Azure-Cost-Reporing](https://github.com/chris-bowman/Azure-Cost-Reporting/tree/main/Power%20BI%20Report)
@@ -73,21 +98,40 @@ https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/
 
 
 
-# AWS SkillBuilder
+## AWS SkillBuilder
 [Optimizing your FinOps Strategy with AWS](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13231/optimizing-your-finops-strategy-with-aws)
 
-
-
-# FinOps Tools
+## AWS FinOps Tools
 [AWS 비용 계산기](https://calculator.aws/)
-
-[VScode-Extension:테라폼 수정 비용 추적](https://github.com/infracost/vscode-infracost/)
 
 [EC2기반 리소스 비용 비교하기](https://instances.vantage.sh/)
 
 [AWS 한달 비용 계산기](https://calculator.s3.amazonaws.com/index.html)
 
 [AWS Lambda Power tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning)
+
+[Hpc-Cost-Simulator](https://github.com/aws-samples/hpc-cost-simulator)
+
+
+# GCP
+## GCP Blogs
+[Cost Management](https://cloud.google.com/blog/topics/cost-management/)
+
+
+# Azure
+
+## Azure Docs
+[Cost Management documentation](https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/)
+
+
+
+# FinOps
+
+## FinOps Ariticles
+[The future of DevOps is FinOps](https://www.linkedin.com/pulse/future-devops-finops-chee-siong-chan/)
+
+## FinOps Tools
+[VScode-Extension:테라폼 수정 비용 추적](https://github.com/infracost/vscode-infracost/)
 
 [Serverless Cost Calculator](http://serverlesscalc.com)
 
@@ -97,7 +141,7 @@ https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/
 
 
 
-# FinOps Solutions
+## FinOps Solutions
 [AWS re:Invent 2022 FinOps 솔루션들](https://newstars.cloud/560)
 
 [Grumatic](https://www.grumatic.com)
@@ -115,8 +159,7 @@ https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/
 [CloudThread](https://www.cloudthread.io/)
 
 
-
-# K8S FinOps Solutions
+## K8S FinOps Solutions
 [kubecost](https://www.kubecost.com/)
 
 [ScaleOps](https://scaleops.com/)
@@ -140,9 +183,8 @@ https://aws.amazon.com/ko/blogs/aws-cloud-financial-management/
 
 
 
-# 오픈카톡
-https://open.kakao.com/o/gwSjnLqe
-
-
-# Youtube
+# Youtube-FinOpsFoundation
 [FinOps Foundation](https://www.youtube.com/channel/UCyl26lvnoySlGWlF5oNHvYA)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
