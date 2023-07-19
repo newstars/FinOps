@@ -114,8 +114,23 @@
 
 
 # GCP
+
 ## GCP Blogs
 [Cost Management](https://cloud.google.com/blog/topics/cost-management/)
+
+[Unlocking cloud cost optimization: A guide to Google FinOps Resources](https://cloud.google.com/blog/topics/cost-management/unlocking-cloud-cost-optimization-a-guide-to-cloud-finops?hl=en)
+
+[Buy or build? A Framing Up FinOps case study on advanced reporting](https://cloud.google.com/blog/topics/cost-management/ukg-implements-advanced-reporting-for-cloud-billing?hl=en)
+
+[Framing up FinOps: All about Google Cloud billing tools](https://cloud.google.com/blog/topics/cost-management/framing-up-finops-podcast-tackles-cloud-billing-tools?hl=en)
+
+[Sharing the inaugural State of Kubernetes Cost Optimization report](https://cloud.google.com/blog/products/containers-kubernetes/new-report-state-of-kubernetes-cost-optimization?hl=en)
+
+[Google Cloud is officially a FinOps Certified Service Provider](https://cloud.google.com/blog/topics/cost-management/google-cloud-is-officially-a-finops-certified-service-provider?hl=en)
+
+[Cloud FinOps on GCP - Best Practices](https://youtu.be/T_QKG8rEe8w)
+
+
 
 
 # Azure
@@ -185,4 +200,3 @@
 
 # Youtube-FinOpsFoundation
 [FinOps Foundation](https://www.youtube.com/channel/UCyl26lvnoySlGWlF5oNHvYA)
-
