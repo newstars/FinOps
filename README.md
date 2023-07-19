@@ -143,6 +143,10 @@
 # FinOps
 
 ## FinOps Ariticles
+[기업용 클라우드 비용 최적화: 도구과 사례](https://slownews.kr/79903)
+
+[소중한 자원이 낭비되지 않도록, 클라우드 핀옵스(FinOps)에 포커스](https://www.samsungsds.com/kr/techreport/cloud-finops.html)
+
 [The future of DevOps is FinOps](https://www.linkedin.com/pulse/future-devops-finops-chee-siong-chan/)
 
 ## FinOps Tools
