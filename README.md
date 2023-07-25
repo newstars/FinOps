@@ -14,7 +14,7 @@
 - [Books](#Books)
 - [Youtube](#Youtube-FinOpsFoundation)
 
-#AWS
+# AWS
 
 ## AWS 비용최적화 시리즈
 [비용 최적화 시리즈 1부: AWS 사용량에 대한 시각화로 비용 최적화 인사이트 얻기](https://aws.amazon.com/ko/blogs/korea/visualize-and-gain-insights-into-your-aws-cost-and-usage-with-amazon-managed-grafana/)
