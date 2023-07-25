@@ -63,6 +63,8 @@
 
 
 ## Article
+[1년 동안 Workload의 절반을 ARM64로 Migration하기](https://hyperconnect.github.io/2023/07/25/migrate-half-of-workload-in-a-year.html)
+
 [수제 FinOps - Lambda편](https://gnidoc.tistory.com/entry/%EC%88%98%EC%A0%9C-FinOps-Lambda%ED%8E%B8)
 
 [Telegram Bot으로 AWS 비용 확인하기](https://zigispace.net/1193)
