@@ -9,6 +9,7 @@
 - [AWS](#AWS)
 - [GCP](#GCP)
 - [Azure](#Azure)
+- [NCloud](#NaverCloud)
 - [FinOps](#FinOps)
 - [Books](#Books)
 - [Youtube](#Youtube-FinOpsFoundation)
@@ -173,9 +174,22 @@
 [Microsoft Cost Management](https://azure.microsoft.com/ko-kr/products/cost-management/)
 
 
+# NaverCloud
+
+## Article
+[네이버 클라우드에서 비용 모니터링 설정 및 알림 받기](https://manvscloud.com/?p=1847)
+
+[CLOUD FUNCTIONS을 활용한 ARCHIVE STORAGE 수명 주기 관리](https://manvscloud.com/?p=2267)
+
+## NaverCloud FinOps Tools
+[요금 계산기](https://www.ncloud.com/charge/calc/ko)
+
+
 # FinOps
 
 ## FinOps Ariticles
+[클라우드인데 비용이 왜 안 줄어들까?](https://post.naver.com/viewer/postView.naver?volumeNo=32191135)
+
 [기업용 클라우드 비용 최적화: 도구과 사례](https://slownews.kr/79903)
 
 [소중한 자원이 낭비되지 않도록, 클라우드 핀옵스(FinOps)에 포커스](https://www.samsungsds.com/kr/techreport/cloud-finops.html)
