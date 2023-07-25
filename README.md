@@ -103,6 +103,7 @@
 ## AWS SkillBuilder
 [Optimizing your FinOps Strategy with AWS](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13231/optimizing-your-finops-strategy-with-aws)
 
+
 ## AWS FinOps Tools
 [AWS 비용 계산기](https://calculator.aws/)
 
@@ -117,7 +118,15 @@
 
 # GCP
 
+## GCP Docs
+[개발자와 운영자를 위한 Google Cloud의 비용 최적화](https://cloud.google.com/architecture/cost-efficiency-on-google-cloud?hl=ko)
+
+
 ## GCP Blogs
+[Google Cloud의 객체 스토리지 비용 최적화: 위치 및 클래스](https://cloud.google.com/blog/ko/products/storage-data-transfer/how-to-save-on-google-cloud-storage-costs)
+
+[Cloud FinOps란 무엇인가요?](https://cloud.google.com/learn/what-is-finops?hl=ko)
+
 [Cost Management](https://cloud.google.com/blog/topics/cost-management/)
 
 [Unlocking cloud cost optimization: A guide to Google FinOps Resources](https://cloud.google.com/blog/topics/cost-management/unlocking-cloud-cost-optimization-a-guide-to-cloud-finops?hl=en)
@@ -133,13 +142,35 @@
 [Cloud FinOps on GCP - Best Practices](https://youtu.be/T_QKG8rEe8w)
 
 
+## Article
+[GCP를 조금 더 저렴하게 이용하는 방법](https://newstars.cloud/551)
 
+[자고일어났더니 어느날 GCP 비용이 10000% 늘어나 버렸다](https://zerogyun.dev/2020/07/26/%EC%9E%90%EA%B3%A0%EC%9D%BC%EC%96%B4%EB%82%AC%EB%8D%94%EB%8B%88%20%EC%96%B4%EB%8A%90%EB%82%A0%20GCP%20%EB%B9%84%EC%9A%A9%EC%9D%B4%2010000%25%20%EB%8A%98%EC%96%B4%EB%82%98%20%EB%B2%84%EB%A0%B8%EB%8B%A4/)
 
 # Azure
 
 ## Azure Docs
 [Cost Management documentation](https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/)
 
+[Azure Advisor를 사용하여 서비스 비용 절감](https://learn.microsoft.com/ko-kr/azure/advisor/advisor-cost-recommendations)
+
+[검사목록 - 비용 최적화](https://learn.microsoft.com/ko-kr/azure/well-architected/cost/optimize-checklist?source=recommendations)
+
+[검사 목록 - 비용 모니터링](https://learn.microsoft.com/ko-kr/azure/well-architected/cost/monitor-checklist?source=recommendations)
+
+## Azure Learn
+[FinOps란?](https://learn.microsoft.com/ko-kr/azure/cost-management-billing/finops/overview-finops)
+
+[자습서: FinOps 반복 수행](https://learn.microsoft.com/ko-kr/azure/cost-management-billing/finops/conduct-finops-iteration?source=recommendations)
+
+[자습서: 권장 사항에서 비용 최적화](https://learn.microsoft.com/ko-kr/azure/cost-management-billing/costs/tutorial-acm-opt-recommendations)
+
+## Azure FinOps Tools
+[TCO(총 소유 비용) 계산기](https://azure.microsoft.com/ko-kr/pricing/tco/calculator/)
+
+[가격 계산기](https://azure.microsoft.com/ko-kr/pricing/calculator/)
+
+[Microsoft Cost Management](https://azure.microsoft.com/ko-kr/products/cost-management/)
 
 
 # FinOps
