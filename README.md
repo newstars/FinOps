@@ -29,7 +29,7 @@
 > FinOps는 엔지니어링, 재무, 기술, 비즈니스 팀이 데이터 중심 지출 결정에 협력할 수 있도록 지원함으로써 조직이 비즈니스 가치를 극대화할 수 있도록 지원하는 진화하는 클라우드 재무 관리 규범이자 문화이다.  
 [November 2021 by the FinOps Foundation](https://www.finops.org/introduction/what-is-finops/)
 
-![ex_screenshot](./img/finops.png]
+![ex_screenshot](./img/finops.png)
 
 
 ## FinOps Ariticles
