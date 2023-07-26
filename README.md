@@ -14,6 +14,9 @@
 - [Books](https://github.com/newstars/FinOps#books)
 - [Youtube](https://github.com/newstars/FinOps#youtube-finopsfoundation)
 
+
+
+
 # AWS
 
 ## AWS 비용최적화 시리즈
