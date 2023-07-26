@@ -68,6 +68,8 @@
 
 [수제 FinOps - Lambda편](https://gnidoc.tistory.com/entry/%EC%88%98%EC%A0%9C-FinOps-Lambda%ED%8E%B8)
 
+[수제 FinOps - NAT편](https://gnidoc.tistory.com/entry/%EC%88%98%EC%A0%9C-FinOps-NAT%ED%8E%B8)
+
 [Telegram Bot으로 AWS 비용 확인하기](https://zigispace.net/1193)
 
 [DevOps Engineer가 FinOps를 시작하면](https://velog.io/@sean-2016/DevOps-Engineer%EA%B0%80-FinOps%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B4)
@@ -195,6 +197,7 @@
 [소중한 자원이 낭비되지 않도록, 클라우드 핀옵스(FinOps)에 포커스](https://www.samsungsds.com/kr/techreport/cloud-finops.html)
 
 [The future of DevOps is FinOps](https://www.linkedin.com/pulse/future-devops-finops-chee-siong-chan/)
+
 
 ## FinOps Tools
 [VScode-Extension:테라폼 수정 비용 추적](https://github.com/infracost/vscode-infracost/)
