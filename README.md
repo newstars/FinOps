@@ -5,6 +5,7 @@
 안녕하세요. 'Finops - 클라우드 비용 최적화' [오픈카톡](https://open.kakao.com/o/gwSjnLqe) 저장소 입니다.
 
 # 목차
+
 - [AWS](https://github.com/newstars/FinOps#aws)
 - [GCP](https://github.com/newstars/FinOps#gcp)
 - [Azure](https://github.com/newstars/FinOps#azure)
