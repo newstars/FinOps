@@ -1,12 +1,12 @@
 # AWS
-- [AWS 비용최적화 시리즈]
-- [AWS Cloud Financial Management]
-- [AWS FinOps Video]
-- [AWS Blogs]
-- [Article]
-- [Hands-On]
-- [AWS SkillBuilder]
-- [AWS FinOps Tools]
+- [AWS 비용최적화 시리즈](https://github.com/newstars/FinOps/blob/main/aws.md#aws-%EB%B9%84%EC%9A%A9%EC%B5%9C%EC%A0%81%ED%99%94-%EC%8B%9C%EB%A6%AC%EC%A6%88)
+- [AWS Cloud Financial Management](https://github.com/newstars/FinOps/blob/main/aws.md#aws-cloud-financial-management)
+- [AWS FinOps Video](https://github.com/newstars/FinOps/blob/main/aws.md#aws-finops-video)
+- [AWS Blogs](https://github.com/newstars/FinOps/blob/main/aws.md#aws-blogs)
+- [Article](https://github.com/newstars/FinOps/blob/main/aws.md#article)
+- [Hands-On](https://github.com/newstars/FinOps/blob/main/aws.md#hands-on)
+- [AWS SkillBuilder](https://github.com/newstars/FinOps/blob/main/aws.md#aws-skillbuilder)
+- [AWS FinOps Tools](https://github.com/newstars/FinOps/blob/main/aws.md#aws-finops-tools)
 
 ## AWS 비용최적화 시리즈
 - [비용 최적화 시리즈 1부: AWS 사용량에 대한 시각화로 비용 최적화 인사이트 얻기](https://aws.amazon.com/ko/blogs/korea/visualize-and-gain-insights-into-your-aws-cost-and-usage-with-amazon-managed-grafana/)
