@@ -4,7 +4,9 @@
 
 # FinOps - 클라우드 비용 최적화 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnewstars%2FFinOps%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-안녕하세요. 'Finops - 클라우드 비용 최적화' [오픈카톡](https://open.kakao.com/o/gwSjnLqe) 레포지토리입니다.  
+안녕하세요. 'Finops - 클라우드 비용 최적화' [오픈카톡](https://open.kakao.com/o/gwSjnLqe) 레포지토리입니다.   
+<br/>
+클릭하시면 참여하실 수 있습니다.  
 <br/><br/>
 
 
