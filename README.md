@@ -6,13 +6,13 @@
 
 아래 바로가기를 이용하시면 다양한 정보를 보실 수 있습니다.
 
-- [AWS](#AWS)
-- [GCP](#GCP)
-- [Azure](#Azure)
-- [NCloud](#NaverCloud)
-- [FinOps](#FinOps)
-- [Books](#Books)
-- [Youtube](#Youtube-FinOpsFoundation)
+- [AWS](https://github.com/newstars/FinOps#AWS)
+- [GCP](https://github.com/newstars/FinOps#GCP)
+- [Azure](https://github.com/newstars/FinOps#Azure)
+- [NCloud](https://github.com/newstars/FinOps#navercloud)
+- [FinOps](https://github.com/newstars/FinOps#FinOps)
+- [Books](https://github.com/newstars/FinOps#Books)
+- [Youtube](https://github.com/newstars/FinOps#Youtube-FinOpsFoundation)
 
 # AWS
 
