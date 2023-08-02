@@ -39,6 +39,9 @@
 - [수제 FinOps - Lambda편](https://gnidoc.tistory.com/entry/%EC%88%98%EC%A0%9C-FinOps-Lambda%ED%8E%B8)
 - [수제 FinOps - NAT편](https://gnidoc.tistory.com/entry/%EC%88%98%EC%A0%9C-FinOps-NAT%ED%8E%B8)
 - [Telegram Bot으로 AWS 비용 확인하기](https://zigispace.net/1193)
+- [불완전한 멀티파트 업로드 제거로 비용 절검](https://linuxer.name/2022/08/aws-finops-s3-incomplete-multipart-uploads-mpu/)
+- [AWS S3 불필요한 객체 삭제로 비용 절감하기](https://flavono123.github.io/posts/s3-cost-optimization/)
+- [AWS Cli로 오래된 s3 객체 삭제하기](https://newstars.cloud/489)
 - [DevOps Engineer가 FinOps를 시작하면](https://velog.io/@sean-2016/DevOps-Engineer%EA%B0%80-FinOps%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%A9%B4)
 - [The best ways to save money on Lambda](https://theburningmonk.com/2022/07/the-best-ways-to-save-money-on-lambda/)
 - [ECS Task Rebalancing을 이용한 EC2 비용 최적화](https://engineering.ab180.co/stories/aws-ecs-task-rebalancing-ec2-cost-optimization)
@@ -49,10 +52,8 @@
 
 ## Hands-On
 - [Amazon EKS 비용 최적화 워크샵](https://catalog.workshops.aws/eks-cost-optimization/ko-KR)
+- [Cloud Financial Framework (CFF)](https://catalog.workshops.aws/awscff/en-US)
 - [Azure-Cost-Reporing](https://github.com/chris-bowman/Azure-Cost-Reporting/tree/main/Power%20BI%20Report)
-- [불완전한 멀티파트 업로드 제거로 비용 절검](https://linuxer.name/2022/08/aws-finops-s3-incomplete-multipart-uploads-mpu/)
-- [AWS S3 불필요한 객체 삭제로 비용 절감하기](https://flavono123.github.io/posts/s3-cost-optimization/)
-- [AWS Cli로 오래된 s3 객체 삭제하기](https://newstars.cloud/489)
 - [AWS Level 100 : COST VISUALIZATION](https://wellarchitectedlabs.com/cost/100_labs/100_5_cost_visualization/)
 - [AWS Level 200 : Cloud Intelligence Dashboards](https://wellarchitectedlabs.com/cost/200_labs/200_cloud_intelligence/)
 - [AWS Level 200 : COMPUTE OPTIMIZER DASHBOARD](https://wellarchitectedlabs.com/cost/200_labs/200_cloud_intelligence/compute-optimizer-dashboards/)
