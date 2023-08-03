@@ -1,6 +1,6 @@
 # Azure
 - [Azure Docs](#azure-docs)
-- [Azure Blog](#azure-blogs)
+- [Azure Blogs](#azure-blogs)
 - [Azure Learn](#azure-learn)
 - [Azure FinOps Tools](#azure-finops-tools)
 
@@ -10,7 +10,7 @@
 - [검사목록 - 비용 최적화](https://learn.microsoft.com/ko-kr/azure/well-architected/cost/optimize-checklist?source=recommendations)
 - [검사 목록 - 비용 모니터링](https://learn.microsoft.com/ko-kr/azure/well-architected/cost/monitor-checklist?source=recommendations)
 
-## Aure Blogs
+## Azure Blogs
 - [How Microsoft Cloud is embracing FinOps practitioners](https://azure.microsoft.com/en-us/blog/how-microsoft-cloud-is-embracing-finops-practitioners/)
 
 ## Azure Learn
