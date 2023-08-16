@@ -32,7 +32,6 @@
 - [AWS Lambda 계층형 신규 요금제 출시](https://aws.amazon.com/ko/blogs/korea/introducing-tiered-pricing-for-aws-lambda/)
 - [AWS Graviton Fast Start – 그라비톤 기반 완전 관리 서비스 이전 지원 프로그램](https://aws.amazon.com/ko/blogs/korea/graviton-fast-start-a-new-program-to-help-move-your-workloads-to-aws-graviton/)
 - [AWS 비용을 줄일 수 있는 10가지 기법](https://aws.amazon.com/ko/blogs/korea/10-things-you-can-do-today-to-reduce-aws-costs/)
-- [AWS Compute Optimizer](https://aws.amazon.com/ko/blogs/korea/new-for-aws-compute-optimizer-resource-efficiency-metrics-to-estimate-savings-opportunities-and-performance-risks/)
 
 ## Article
 - [1년 동안 Workload의 절반을 ARM64로 Migration하기](https://hyperconnect.github.io/2023/07/25/migrate-half-of-workload-in-a-year.html)
