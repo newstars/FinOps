@@ -5,6 +5,8 @@
 
 ## GCP Docs
 - [개발자와 운영자를 위한 Google Cloud의 비용 최적화](https://cloud.google.com/architecture/cost-efficiency-on-google-cloud?hl=ko)
+- [FinOps 허브로 비용 최적화](https://cloud.google.com/billing/docs/how-to/finops-hub?hl=ko)
+- [약정 사용 할인](https://cloud.google.com/docs/cuds?hl=ko)
 
 
 ## GCP Blogs
