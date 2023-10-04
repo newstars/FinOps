@@ -52,15 +52,16 @@
 ## Hands-On
 - [Amazon EKS 비용 최적화 워크샵](https://catalog.workshops.aws/eks-cost-optimization/ko-KR)
 - [Cloud Financial Framework (CFF)](https://catalog.workshops.aws/awscff/en-US)
-- [Azure-Cost-Reporing](https://github.com/chris-bowman/Azure-Cost-Reporting/tree/main/Power%20BI%20Report)
+- [Cost Anomaly Dashboard](https://catalog.workshops.aws/awscid/en-US/dashboards/advanced/cost-anomaly)
 - [AWS Level 100 : COST VISUALIZATION](https://wellarchitectedlabs.com/cost/100_labs/100_5_cost_visualization/)
-- [AWS Level 200 : Cloud Intelligence Dashboards](https://wellarchitectedlabs.com/cost/200_labs/200_cloud_intelligence/)
+- [AWS Level 200 : Cloud Intelligence Dashboards](https://wellarchitectedlabs.com/cloud-intelligence-dashboards/)
 - [AWS Level 200 : COMPUTE OPTIMIZER DASHBOARD](https://wellarchitectedlabs.com/cost/200_labs/200_cloud_intelligence/compute-optimizer-dashboards/)
 
 
 
 ## AWS SkillBuilder
 - [Optimizing your FinOps Strategy with AWS](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13231/optimizing-your-finops-strategy-with-aws)
+- [AWS Cloud for Finance Professionals](https://explore.skillbuilder.aws/learn/course/external/view/elearning/10803/aws-cloud-for-finance-professionals)
 
 
 ## AWS FinOps Tools
