@@ -13,6 +13,9 @@
 ## Azure Blogs
 - [How Microsoft Cloud is embracing FinOps practitioners](https://azure.microsoft.com/en-us/blog/how-microsoft-cloud-is-embracing-finops-practitioners/)
 
+## Hands-On
+- [Azure-Cost-Reporing](https://github.com/chris-bowman/Azure-Cost-Reporting/)
+
 ## Azure Learn
 - [FinOps란?](https://learn.microsoft.com/ko-kr/azure/cost-management-billing/finops/overview-finops)
 - [자습서: FinOps 반복 수행](https://learn.microsoft.com/ko-kr/azure/cost-management-billing/finops/conduct-finops-iteration?source=recommendations)
