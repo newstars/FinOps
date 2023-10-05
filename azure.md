@@ -22,6 +22,7 @@
 - [자습서: 권장 사항에서 비용 최적화](https://learn.microsoft.com/ko-kr/azure/cost-management-billing/costs/tutorial-acm-opt-recommendations)
 
 ## Azure FinOps Tools
+- [Azure VM Comparison](https://instances.vantage.sh/azure/)
 - [TCO(총 소유 비용) 계산기](https://azure.microsoft.com/ko-kr/pricing/tco/calculator/)
 - [가격 계산기](https://azure.microsoft.com/ko-kr/pricing/calculator/)
 - [Microsoft Cost Management](https://azure.microsoft.com/ko-kr/products/cost-management/)
