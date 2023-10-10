@@ -20,6 +20,7 @@
 - [AWS re:Invent 2022 비용 관련 유튜브 재생목록](https://www.youtube.com/watch?v=xOQzhagC9hA&list=PLkMxFWEx0j2N8gV3rmoevDKKU5F0OW5eK)
 
 ## AWS Blogs
+- [게임 출시 전 AWS 예상 비용 산출 및 출시 후 비용 최적화 방법](https://aws.amazon.com/ko/blogs/korea/cost-estimation-and-optimization-before-and-after-the-game-launch/)
 - [Karpenter 통합을 이용한 Kubernetes 컴퓨팅 비용 최적화](https://aws.amazon.com/ko/blogs/tech/optimizing-your-kubernetes-compute-costs-with-karpenter-consolidation/)
 - [Amazon EKS 클러스터를 비용 효율적으로 오토스케일링하기](https://aws.amazon.com/ko/blogs/tech/amazon-eks-cluster-auto-scaling-karpenter-bp)
 - [Amazon Redshift의 가격 대비 성능 리더쉽](https://aws.amazon.com/ko/blogs/korea/amazon-redshift-continues-its-price-performance-leadership)
