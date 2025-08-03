@@ -65,7 +65,8 @@
 - [AWS Cloud for Finance Professionals](https://explore.skillbuilder.aws/learn/course/external/view/elearning/10803/aws-cloud-for-finance-professionals)
 
 
-## AWS FinOps Tools
+## AWS FinOps Tools'
+- [AWS FinOps Dashboard (CLI)](https://github.com/ravikiranvm/aws-finops-dashboard)
 - [AWS 비용 계산기](https://calculator.aws/)
 - [EC2기반 리소스 비용 비교하기](https://instances.vantage.sh/)
 - [AWS 한달 비용 계산기](https://calculator.s3.amazonaws.com/index.html)
