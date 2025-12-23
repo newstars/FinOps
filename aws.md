@@ -20,6 +20,7 @@
 - [AWS re:Invent 2022 비용 관련 유튜브 재생목록](https://www.youtube.com/watch?v=xOQzhagC9hA&list=PLkMxFWEx0j2N8gV3rmoevDKKU5F0OW5eK)
 
 ## AWS Blogs
+- [Introducing Database Savings Plans for AWS Databases](https://aws.amazon.com/ko/blogs/aws/introducing-database-savings-plans-for-aws-databases/)
 - [게임 출시 전 AWS 예상 비용 산출 및 출시 후 비용 최적화 방법](https://aws.amazon.com/ko/blogs/korea/cost-estimation-and-optimization-before-and-after-the-game-launch/)
 - [Karpenter 통합을 이용한 Kubernetes 컴퓨팅 비용 최적화](https://aws.amazon.com/ko/blogs/tech/optimizing-your-kubernetes-compute-costs-with-karpenter-consolidation/)
 - [Amazon EKS 클러스터를 비용 효율적으로 오토스케일링하기](https://aws.amazon.com/ko/blogs/tech/amazon-eks-cluster-auto-scaling-karpenter-bp)
@@ -65,7 +66,7 @@
 - [AWS Cloud for Finance Professionals](https://explore.skillbuilder.aws/learn/course/external/view/elearning/10803/aws-cloud-for-finance-professionals)
 
 
-## AWS FinOps Tools'
+## AWS FinOps Tools
 - [AWS FinOps Dashboard (CLI)](https://github.com/ravikiranvm/aws-finops-dashboard)
 - [AWS 비용 계산기](https://calculator.aws/)
 - [EC2기반 리소스 비용 비교하기](https://instances.vantage.sh/)

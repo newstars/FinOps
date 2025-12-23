@@ -40,3 +40,5 @@
 ## Articles
 - [GCP를 조금 더 저렴하게 이용하는 방법](https://newstars.cloud/551)
 - [자고일어났더니 어느날 GCP 비용이 10000% 늘어나 버렸다](https://zerogyun.dev/2020/07/26/%EC%9E%90%EA%B3%A0%EC%9D%BC%EC%96%B4%EB%82%AC%EB%8D%94%EB%8B%88%20%EC%96%B4%EB%8A%90%EB%82%A0%20GCP%20%EB%B9%84%EC%9A%A9%EC%9D%B4%2010000%25%20%EB%8A%98%EC%96%B4%EB%82%98%20%EB%B2%84%EB%A0%B8%EB%8B%A4/)
+- [GCP Cost Optimization: 7 Essential Tactics for 2025](https://cast.ai/blog/gcp-cost-optimization/)
+- [GCP cost optimization guide: Everything you need to reduce spend](https://ternary.app/blog/gcp-cost-optimization-guide/)
